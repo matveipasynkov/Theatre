@@ -3,7 +3,6 @@ This is my fourth project, which was assigned as homework in university. The con
 ## Main Assignment
 The program being developed as part of the controlled homework assignment is designed to work with csv file data and must be implemented using an object-oriented paradigm. 
 **Adherence to the principles of sole responsibility, Liskov substitution principle and dependency inversion is mandatory**.
-Place the class library project and the console application project in the same solution.
 ## Requirements for the console application
 #### 1. The console application must use the data types specified by the individual option (Table 2) and allow (in the console menu):
 	a. Open a *.csv file with the raw data. The file structure is defined by the individual variant file (table 1). In case of file opening errors or incorrect data, the program should display a message to the user. Get file paths from the user.
